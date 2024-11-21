@@ -70,7 +70,7 @@ main,
 
 /* modifier */
 .testimonial__card--light {
-  color: var(--Light-grayish-blue);
+  color: var( --Very-dark-grayish-blue);
 }
 
 .testimonial__card .user__section {
