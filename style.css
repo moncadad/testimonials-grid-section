@@ -65,12 +65,12 @@ main,
   border-radius: 8px;
   margin: 28px 0;
   padding: 24px 30px;
-  color: hsla(0, 0%, 100%, 0.7);
+  color: var(--White);
 }
 
 /* modifier */
 .testimonial__card--light {
-  color: hsla(217, 19%, 35%, 0.7);
+  color: var(--Light-grayish-blue);
 }
 
 .testimonial__card .user__section {
