@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL:](https://www.frontendmentor.io/solutions/testimonials-grid-section-Rba2Vt6EZH)
+- [Live Site URL:](https://tangerine-griffin-baca04.netlify.app/)
 
 ## My process
 
@@ -61,7 +61,7 @@ I look forward to implementing bento sections into future projects. Bigger proje
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/moncadad)
+- Frontend Mentor - [@moncadad](https://www.frontendmentor.io/profile/moncadad)
 
 ## Acknowledgments
 
