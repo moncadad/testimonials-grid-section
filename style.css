@@ -62,17 +62,15 @@ main,
 
 .testimonial__card {
   /* border: 2px solid green; */
-  background-color: orange;
   border-radius: 8px;
   margin: 28px 0;
   padding: 24px 30px;
-  color: var(--White);
+  color: hsla(0, 0%, 100%, 0.7);
 }
 
 /* modifier */
 .testimonial__card--light {
-  background-color: orange;
-  color: var(--Very-dark-grayish-blue);
+  color: hsla(217, 19%, 35%, 0.7);
 }
 
 .testimonial__card .user__section {
