@@ -15,6 +15,7 @@
   /* ### Neutral */
   --Light-gray: hsl(0, 0%, 81%);
   --Light-grayish-blue: hsl(210, 46%, 95%);
+  --Shadow-dark-blackish-blue: hsla(217, 30%, 14%, 0.1);
 
   /* Note for text colors:
 1. "Verified Graduate" has the same color as the person's name with 50% opacity
@@ -48,7 +49,7 @@ img {
 }
 body {
   font-family: var(--Font-Barlow-Seal);
-  background-color: var(--Light-grayish-blue);
+  background-color: var(--Light-gray);
 }
 
 main,
@@ -66,11 +67,12 @@ main,
   margin: 28px 0;
   padding: 24px 30px;
   color: var(--White);
+  box-shadow: 36px 36px 20px var(--Shadow-dark-blackish-blue);
 }
 
 /* modifier */
 .testimonial__card--light {
-  color: var( --Very-dark-grayish-blue);
+  color: var(--Very-dark-grayish-blue);
 }
 
 .testimonial__card .user__section {
@@ -127,6 +129,7 @@ main,
 
 .testimonial__card:nth-child(2) {
   background-color: var(--Very-dark-grayish-blue);
+  color: hsla(0, 0%, 100%, 0.5);
 }
 
 .testimonial__card:nth-child(3),
@@ -136,6 +139,7 @@ main,
 
 .testimonial__card:nth-child(4) {
   background-color: var(--Very-dark-blackish-blue);
+  color: hsla(0, 0%, 100%, 0.5);
 }
 
 @media screen and (min-width: 1000px) {
